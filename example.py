@@ -9,8 +9,8 @@ import random
 
 #pip install tk
 #pip install pyautogui
-
-
+#pip install pyinstaller
+#pyinstaller --onefile --noconsole example.py
 def open_rickroll():
     webbrowser.open("https://www.youtube.com/watch?v=2qBlE2-WL60")
 
